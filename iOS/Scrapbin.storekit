@@ -1,0 +1,27 @@
+{
+  "identifier" : "ScrapbinProducts",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "com.shimondeitel.scrapbin.pro",
+      "localizations" : [
+        {
+          "description" : "Scrapbin Pro - Waste-cost analytics per job type over time",
+          "displayName" : "Scrapbin Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.scrapbin.pro",
+      "referenceName" : "Scrapbin Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
